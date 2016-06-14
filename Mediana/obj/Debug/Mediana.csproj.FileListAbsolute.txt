@@ -1,0 +1,8 @@
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\Mediana\bin\Debug\Mediana.exe.config
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\Mediana\bin\Debug\Mediana.exe
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\Mediana\bin\Debug\Mediana.pdb
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\Mediana\bin\Debug\LibreriaClases.dll
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\Mediana\bin\Debug\LibreriaClases.pdb
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\Mediana\obj\Debug\Mediana.csprojResolveAssemblyReference.cache
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\Mediana\obj\Debug\Mediana.exe
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\Mediana\obj\Debug\Mediana.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\Parentesis\bin\Debug\Parentesis.exe.config
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\Parentesis\bin\Debug\Parentesis.exe
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\Parentesis\bin\Debug\Parentesis.pdb
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\Parentesis\obj\Debug\Parentesis.csprojResolveAssemblyReference.cache
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\Parentesis\obj\Debug\Parentesis.exe
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\Parentesis\obj\Debug\Parentesis.pdb

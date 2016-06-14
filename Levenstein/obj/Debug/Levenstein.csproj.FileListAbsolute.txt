@@ -1,0 +1,6 @@
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\Levenstein\bin\Debug\Levenstein.exe.config
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\Levenstein\bin\Debug\Levenstein.exe
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\Levenstein\bin\Debug\Levenstein.pdb
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\Levenstein\obj\Debug\Levenstein.csprojResolveAssemblyReference.cache
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\Levenstein\obj\Debug\Levenstein.exe
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\Levenstein\obj\Debug\Levenstein.pdb

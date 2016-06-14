@@ -1,0 +1,5 @@
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\MaximosMultiplos\bin\Debug\MaximosMultiplos.exe.config
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\MaximosMultiplos\bin\Debug\MaximosMultiplos.exe
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\MaximosMultiplos\bin\Debug\MaximosMultiplos.pdb
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\MaximosMultiplos\obj\Debug\MaximosMultiplos.exe
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\MaximosMultiplos\obj\Debug\MaximosMultiplos.pdb

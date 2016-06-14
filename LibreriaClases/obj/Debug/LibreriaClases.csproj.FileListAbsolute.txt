@@ -1,0 +1,5 @@
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\LibreriaClases\bin\Debug\LibreriaClases.dll
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\LibreriaClases\bin\Debug\LibreriaClases.pdb
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\LibreriaClases\obj\Debug\LibreriaClases.dll
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\LibreriaClases\obj\Debug\LibreriaClases.pdb
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\LibreriaClases\obj\Debug\LibreriaClases.csprojResolveAssemblyReference.cache

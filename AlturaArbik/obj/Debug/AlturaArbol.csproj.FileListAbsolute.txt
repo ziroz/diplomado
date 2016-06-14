@@ -1,0 +1,8 @@
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\AlturaArbik\bin\Debug\AlturaArbik.exe.config
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\AlturaArbik\bin\Debug\AlturaArbik.exe
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\AlturaArbik\bin\Debug\AlturaArbik.pdb
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\AlturaArbik\bin\Debug\LibreriaClases.dll
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\AlturaArbik\bin\Debug\LibreriaClases.pdb
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\AlturaArbik\obj\Debug\AlturaArbol.csprojResolveAssemblyReference.cache
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\AlturaArbik\obj\Debug\AlturaArbik.exe
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\AlturaArbik\obj\Debug\AlturaArbik.pdb
