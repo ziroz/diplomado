@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Levenstein", "Levenstein\Le
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabinKarp", "RabinKarp\RabinKarp.csproj", "{ECD397AD-890B-4E6F-B6B1-3AED069561CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kmp", "Kmp\Kmp.csproj", "{2CE44DCA-9E72-4A15-B3C7-BEB3D02308D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{ECD397AD-890B-4E6F-B6B1-3AED069561CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECD397AD-890B-4E6F-B6B1-3AED069561CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECD397AD-890B-4E6F-B6B1-3AED069561CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CE44DCA-9E72-4A15-B3C7-BEB3D02308D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE44DCA-9E72-4A15-B3C7-BEB3D02308D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE44DCA-9E72-4A15-B3C7-BEB3D02308D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE44DCA-9E72-4A15-B3C7-BEB3D02308D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,6 @@
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\Kmp\bin\Debug\Kmp.exe.config
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\Kmp\bin\Debug\Kmp.exe
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\Kmp\bin\Debug\Kmp.pdb
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\Kmp\obj\Debug\Kmp.csprojResolveAssemblyReference.cache
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\Kmp\obj\Debug\Kmp.exe
+C:\Users\Ciro\Documents\Visual Studio 2013\Projects\TallerDiplomado\Kmp\obj\Debug\Kmp.pdb
